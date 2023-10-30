@@ -1,5 +1,5 @@
-# comments-analysis-
-analysis of connection between text of comment and it's popularity 
+# comments-analysis
+
 In this project, we conducted an in-depth analysis of user-generated comments on a social media platform to better understand the factors influencing comment popularity. The analysis involved investigating the linguistic features and patterns within comments posted in response to various posts. Data was presented by Russian social media platform "Vk". Here are the key findings:
 
 1. Comment Length and Popularity:
