@@ -6,6 +6,7 @@ In this project, we conducted an in-depth analysis of user-generated comments on
 
 Our first hypothesis was centered around the relationship between comment length and popularity. We discovered a substantial difference between the number of words in popular and unpopular comments.
 Notably, the median word count in the most popular comments for each post was nearly double that of the least popular comments. This suggests a strong correlation between comment length and its likelihood of gaining popularity.
+
 2. The Complexity of Punctuation:
 
 Another crucial aspect we explored was the use of punctuation, particularly the frequency of commas, in comments.
